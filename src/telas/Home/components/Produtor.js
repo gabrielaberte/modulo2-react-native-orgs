@@ -24,7 +24,7 @@ const estilos = StyleSheet.create({
     marginVertical: 8,
     marginHorizontal: 16,
     borderRadius: 6,
-
+    flexDirection: 'row',
     elevation: 4,
   },
   imagem: {
